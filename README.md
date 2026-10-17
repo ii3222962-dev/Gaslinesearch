@@ -1,0 +1,2 @@
+# Gaslinesearch
+Qaz xətlərinin axtarışı
